@@ -80,7 +80,7 @@
   "NETWORKFS":{
     "NO_DRIVES_FOUND":"Pas de disque réseau trouvé",
     "ALIAS":"Alias",
-    "ALIAS_DOC":"Choisir un l'alias qui sera affiché dans les disques NAS montés",
+    "ALIAS_DOC":"Choisir un alias qui sera affiché dans les disques NAS montés",
     "NAS_IP_ADDRESS":"Adresse IP du NAS",
     "NAS_IP_ADDRESS_DOC":"Adresse IP du disque réseau",
     "NAS_PATH":"Chemin",
