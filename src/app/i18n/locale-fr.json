@@ -127,7 +127,6 @@
     "SPEED":"Vitesse",
     "ONLINE":"Connecté",
     "CONNECT":"Connexion",
-<<<<<<< HEAD
     "REFRESH":"Rafraichir",
     "MANUAL_WIFI_CONNECTION": "Connexion WiFi manuelle",
     "NETWORK_NAME": "Nom du réseau",
@@ -139,8 +138,6 @@
   },
   "ALARM": {
     "CRATE_PLAYLIST_FIRST": "Avant de pouvoir utiliser l'alarme, vous devez créer au moins une playlist"
-=======
     "REFRESH":"Rafraichir"
->>>>>>> development
   }
 }
